@@ -1,0 +1,28 @@
+name: David Stewart Films
+favicon: null
+layout_spectrum: 0.0880843405611813
+typography_spectrum: 0.6481994560454041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4618134710472077
+  lightness: 0.784625472035259
+  saturation: 0.5300777154043317
+  rhythmicContrast: 0.28058704687282443
+purpose: []
